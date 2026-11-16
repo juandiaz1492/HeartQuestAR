@@ -7,6 +7,8 @@ An augmented reality application designed to help healthcare students learn huma
 
 [HeartQuest AR - Project Definition](https://docs.google.com/document/d/1toJYPvPvYA_CUmagfrvKMdOD5AHEVwTVCjpTfPQf4Zg/edit?usp=sharing)
 
+[Tema 5: Main Modules](https://docs.google.com/document/d/1rI_2pAvO_TWKQhZ-0D_Oxg35BAAwkJGP-X3rJdepFjg/edit?usp=sharing)
+
 ## Main Features
 
 - Study Mode: Explore the 3D heart and learn the names and functions of its anatomical structures.
