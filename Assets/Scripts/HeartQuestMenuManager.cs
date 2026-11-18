@@ -9,6 +9,11 @@ public class HeartQuestMenuManager : MonoBehaviour
         SceneManager.LoadScene("HeartQuestDemo");
     }
 
+    public void HeartQuiz()
+    {
+        SceneManager.LoadScene("HeartQuiz");
+    }
+
     public void Minigames()
     {
         SceneManager.LoadScene("HeartMemory");
