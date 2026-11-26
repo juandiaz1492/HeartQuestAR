@@ -6,12 +6,12 @@ public class HeartQuestMenuManager : MonoBehaviour
 {
     public void Play()
     {
-        SceneManager.LoadScene("HeartQuestDemo");
+        SceneManager.LoadScene("ExploreHeart");
     }
 
     public void HeartQuiz()
     {
-        SceneManager.LoadScene("HeartQuiz");
+        SceneManager.LoadScene("QuizChallenge");
     }
 
     public void Minigames()
@@ -25,3 +25,4 @@ public class HeartQuestMenuManager : MonoBehaviour
         Application.Quit();
     }
 }
+
