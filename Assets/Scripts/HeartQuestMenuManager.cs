@@ -16,7 +16,7 @@ public class HeartQuestMenuManager : MonoBehaviour
 
     public void Minigames()
     {
-        SceneManager.LoadScene("HeartMemory");
+        SceneManager.LoadScene("HeartMemoryAR");
     }
 
     public void Exit()

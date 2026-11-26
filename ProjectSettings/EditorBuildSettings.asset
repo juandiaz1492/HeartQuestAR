@@ -17,6 +17,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/HeartQuiz.unity
     guid: 1d04f6532ac843a44a2652a931ec58bf
+  - enabled: 1
+    path: Assets/HeartMemory/Scenes/HeartMemoryAR.unity
+    guid: 96c2cf5f8c2e7704cb488aec8434171f
   m_configObjects:
     UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: a9b5bba2ad0237f478041b5ea0d47944, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 289c1b55c9541489481df5cc06664110, type: 3}
