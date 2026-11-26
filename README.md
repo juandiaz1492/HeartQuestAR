@@ -65,7 +65,7 @@ Three initial minigame prototypes were developed, establishing the foundation fo
 
 During Week 9, development focused on expanding AR-based gameplay, improving the user experience and integrating the application's main navigation system.
 
-Following the professor's feedback, we also reviewed the existing prototypes to prioritize meaningful AR interactions over full-screen 2D gameplay.
+We also reviewed the existing prototypes to prioritize meaningful AR interactions over full-screen 2D gameplay.
 
 ### 🎯 Quiz Challenge – Interactive AR Anatomy Quiz
 
@@ -103,32 +103,6 @@ The application's main menu was integrated and adapted for vertical smartphone s
 The application now provides a connected experience between the main menu and the two functional AR minigames.
 
 🎥 **[Watch Main Menu and Navigation – Week 9 Demo](videos/Navigation_Week9.mp4)**
-
-### 📱 Real-Device Testing
-
-The updated application was compiled and tested on a physical iPhone.
-
-**Verified functionality:**
-- AR heart placement and interaction.
-- Interactive anatomy exploration.
-- Quiz Challenge gameplay.
-- Navigation from the main menu to both AR minigames.
-- Returning to the main menu.
-- Re-entering AR minigames without losing the camera background on the iPhone.
-
-A black-background issue was observed during repeated AR scene transitions in Unity Editor with XR Simulation. However, this issue was not reproduced during the corresponding iPhone testing.
-
-### 🔄 AR Design Improvements and Next Steps
-
-Following the professor's feedback, future development will focus on making all minigames take better advantage of augmented reality and the surrounding physical environment.
-
-**Planned improvements:**
-- Adapting Heart Memory to use interactive 3D elements placed on real-world surfaces.
-- Reviewing and adapting the initial Heart Quiz prototype for AR.
-- Increasing spatial and diegetic interactions.
-- Further improving the user interface and overall visual consistency.
-- Safely integrating the updated minigames into the shared project.
-- Continuing real-device testing.
 
 ### Week 9 Summary
 
